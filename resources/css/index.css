@@ -1,0 +1,19 @@
+.jumbotron {
+    background-color: darkred;
+    color: white;
+    height: 800px;
+    text-align: center;
+    padding: 200px;
+
+}
+   
+#bigAlStadium{
+    position:relative;
+    max-height: 300px;
+}
+
+.card{
+    min-height: 100px;
+    max-width: fit-content;
+    padding: 5px;
+}

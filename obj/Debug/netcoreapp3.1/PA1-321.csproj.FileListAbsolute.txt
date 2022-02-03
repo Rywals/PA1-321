@@ -1,0 +1,11 @@
+C:\Users\Ryan\source\repos\MIS321\PA1-321\bin\Debug\netcoreapp3.1\PA1-321.exe
+C:\Users\Ryan\source\repos\MIS321\PA1-321\bin\Debug\netcoreapp3.1\PA1-321.deps.json
+C:\Users\Ryan\source\repos\MIS321\PA1-321\bin\Debug\netcoreapp3.1\PA1-321.runtimeconfig.json
+C:\Users\Ryan\source\repos\MIS321\PA1-321\bin\Debug\netcoreapp3.1\PA1-321.runtimeconfig.dev.json
+C:\Users\Ryan\source\repos\MIS321\PA1-321\bin\Debug\netcoreapp3.1\PA1-321.dll
+C:\Users\Ryan\source\repos\MIS321\PA1-321\bin\Debug\netcoreapp3.1\PA1-321.pdb
+C:\Users\Ryan\source\repos\MIS321\PA1-321\obj\Debug\netcoreapp3.1\PA1-321.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\MIS321\PA1-321\obj\Debug\netcoreapp3.1\PA1-321.AssemblyInfoInputs.cache
+C:\Users\Ryan\source\repos\MIS321\PA1-321\obj\Debug\netcoreapp3.1\PA1-321.AssemblyInfo.cs
+C:\Users\Ryan\source\repos\MIS321\PA1-321\obj\Debug\netcoreapp3.1\PA1-321.dll
+C:\Users\Ryan\source\repos\MIS321\PA1-321\obj\Debug\netcoreapp3.1\PA1-321.pdb
